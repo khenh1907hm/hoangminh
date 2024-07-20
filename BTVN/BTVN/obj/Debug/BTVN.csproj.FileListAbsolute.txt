@@ -1,0 +1,9 @@
+D:\WORKSPACE\BTVN\BTVN\bin\Debug\BTVN.exe.config
+D:\WORKSPACE\BTVN\BTVN\bin\Debug\BTVN.exe
+D:\WORKSPACE\BTVN\BTVN\bin\Debug\BTVN.pdb
+D:\WORKSPACE\BTVN\BTVN\obj\Debug\BTVN.csproj.AssemblyReference.cache
+D:\WORKSPACE\BTVN\BTVN\obj\Debug\BTVN.Properties.Resources.resources
+D:\WORKSPACE\BTVN\BTVN\obj\Debug\BTVN.csproj.GenerateResource.cache
+D:\WORKSPACE\BTVN\BTVN\obj\Debug\BTVN.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\BTVN\BTVN\obj\Debug\BTVN.exe
+D:\WORKSPACE\BTVN\BTVN\obj\Debug\BTVN.pdb
